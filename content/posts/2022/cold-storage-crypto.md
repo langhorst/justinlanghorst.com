@@ -10,7 +10,7 @@ tags:
 
 Self-custody.
 
-First, what is self-custody? Self-custody refers to being your own bank. The phrase “not your wallet, not your crypto” typically refers to storing your coins in a wallet whose custody is in the hands of a third party, i.e. a centralized exchange. This isn’t necessarily bad, as long as you know that you are putting 100% trust and control of the contents of that wallet with that third party.
+First, what is self-custody? Self-custody refers to being your own bank. The phrase "not your wallet, not your crypto" typically refers to storing your coins in a wallet whose custody is in the hands of a third party, i.e. a centralized exchange. This isn't necessarily bad, as long as you know that you are putting 100% trust and control of the contents of that wallet with that third party.
 
 Cold storage.
 
@@ -25,3 +25,4 @@ Think of your seed phrase as the keys to your deepest, darkest secrets. Your see
 
 
 https://boon.org/projects/2021/12/29/chia-coldstorage.html
+
