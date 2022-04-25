@@ -8,29 +8,37 @@ One of the reasons I sign up to both enjoy and suffer through ultra-marathons is
 
 Another more personal reason: ultra-marathons provide excellent opportunities to get to know myself on deeper levels.
 
-How do I respond physically, mentally and emotionally when the suck inevitably begins? How long am I able to push through, and when do I begin to fall apart? What makes the experience great? And not so great?
+How do I respond physically, mentally and emotionally when the suck inevitably begins? How long am I able to push through, and when do I begin to fall apart?
+
+And after the race is done and I've had some time to process the experience, what made the experience great? What made it not so great? What could I have done better?
 
 The knowledge gained from these lessons is so easily applied to daily life. The better I get to know myself, the easier it becomes to feel into my intuition and make decisions that further me down the path of fulfilling my life's purpose.
 
 The 2021 Castle Peak 100K did not disappoint in either category: it was both a wonderful opportunity to get to know myself AND a wonderful adventure with friends both old and new.
 
-In particular, this race taught me so much about myself and when I'm telling the truth, and when I'm not. Sometimes telling the truth to myself is incredibly difficult because while I want to believe one thing, the reality is exact opposite.
+In particular, this race taught me when I'm speaking the truth, both to myself and others, and when I'm not. Sometimes telling the truth to myself is incredibly difficult because while I want to believe one thing, the reality is exact opposite. This can be an extremely subtle difference in the moment.
 
-In the months leading up to Castle Peak, I had been telling myself that I didn't have anything to prove to myself or anyone else and I would tell myself and anyone who would listen that I was just going out there for the fun of it. I'd love to finish, but if I don't, no big deal. That. That was surprisingly a big fucking lie.
+In the months leading up to Castle Peak, I had been telling myself that I didn't have anything to prove to myself or anyone else and I would tell myself and anyone who would listen that I was just going out there for the fun of it. I'd love to finish, but if I didn't, no big deal.
+
+But the truth of the matter was that I *did* have something to prove to myself. I *did* want to finish. And saying anything to the contrary was surprisingly a big fucking lie.
 
 ## Training.
 
-Sometimes you can use your physical training to get you past a particularly tough event. And sometimes you can use your mental training. In this race, it was both, until it wasn't.
+~~Sometimes you can use your physical training to get you past a particularly tough event. And sometimes you can use your mental training. In this race, it was both, until it wasn't.~~
 
 Castle Peak is arguably the hardest 100K in the continental United States. Showing up to the starting line not physically and mentally prepared is not advisable. And while I felt my physical training leading up to the race to be severely lacking, I showed up anyway. Of course I did ;-)
 
 My 2021 entry was a carryover from 2020 when I had originally signed up for the race. While I was more physically prepared for success in 2020, my personal life had become hectic in the months prior so I was more than a little relieved and grateful for the pandemic's ability to cancel anything it could.
 
-2021 came along and while I knew I should be putting in significant miles during training, I could never seem to get into the habit of doing so.
+2021 arrived and while I knew I should be putting in significant miles during training, I could never seem to get into the habit of doing so.
 
-The success of my previous 100K years prior was largely due to practicing yoga in my local studio 4-5 times a week, regular strength training with kettlebells and of course, consistent running. I was fit. I was strong. And while I had continued to practice each, my consistency of doing so was drastically reduced in the year leading up to the race.
+The success of my previous 100K in 2019 was largely due to practicing yoga in my local studio 4-5 times a week, regular strength training with kettlebells and of course, consistent running. I was fit. I was strong. These practices led to a successful race.
 
-So why couldn't I get it together? Too much time running alone. I prefer to have a group to run with regularly. A group where we share common goals. Where we can both run together and do our own thing all the same. But this was difficult during the pandemic, and so the little training that I did put in was mostly on my own.
+While I had continued to practice each of these activities for Castle Peak, my consistency of doing so was drastically reduced in the year leading up to the race.
+
+So why couldn't I get it together? Maybe just too much time alone. Not enough opportunities to run with a partner or a group. No yoga studio time. Very little gym time. It's way more fun to do life with other people, and I have enough time alone as it is.
+
+~~lI prefer to have a group to run with regularly. A group where we share common goals. Where we can both run together and do our own thing all the same. But this was difficult during the pandemic, and so the little training that I did put in was mostly on my own.~~
 
 Yet, two trips earlier in the year served up a healthy dose of confidence.
 
@@ -40,7 +48,7 @@ I spent a few days in the Guadalupe Mountains and Carlsbad Caverns National Park
 
 [photo of me at Guadalupe Peak]
 
-The only mistake I made was not re-applying sunblock at Guadalupe Peak. I underestimated the intensity of the sun at this time of year.
+The only mistake I made was not re-applying sunblock at Guadalupe Peak. I simply underestimated the intensity of the sun at this time of year.
 
 You can guess what happened running in the middle of the desert without proper sunblock. And if your guess is anything other than the sun loving me too hard, well, I'd love to hear about it. Call me.
 
@@ -51,7 +59,9 @@ While the severe sunburn limited the amount of running I had planned in the moun
 - Tushars. Meeting [[Kylie Aldaz]]. Telling her about my upcoming Castle Peak — and how I wasn't attached to my results. And feeling like I had told her a lie. I should have listened closer to this. Sometimes its helpful to talk to somebody else — to say whatever you’re thinking — to have a mirror.
 - By the way. I think the Tushars 100K edges out Castle Peak, grabbing the top spot for the toughest 100K in the United States. It's sheer ridiculousness. And I've only done 20 miles of it.
 
-I spent a couple weeks in the summer exploring the great American southwest, driving from my home in Dallas, Texas to Flagstaff, Arizona and into southern Utah.
+I spent a couple weeks in the summer exploring the great American southwest, driving from my home in Dallas, Texas to Flagstaff, Arizona and then into southern Utah and back.
+
+Utah is where the Tushars 100K is run. This was a major destination on the trip, as I was there to pace a buddy for his first 100K attempt.
 
 One of the major destinations of my trip was the Tushars mountain range in southern Utah to pace a buddy for the Tushars 100K race, thought to be the hardest 100K races in the country by people who have raced both Tushars and Castle Peak.
 
@@ -77,6 +87,8 @@ Ultra-marathons pay off in many ways. This particular bout of travel led to new 
 
 - packet pickup. pre-race meeting.
 - [photo] 2021.08.13 17:58. in line.
+
+We took a small tour of the crewable aid stations before heading to the pre-race meeting. 
 
 
 ## The Race.
