@@ -5,3 +5,4 @@ static/apple-touch-icon.png filter=lfs diff=lfs merge=lfs -text
 static/favicon-16x16.png filter=lfs diff=lfs merge=lfs -text
 static/favicon-32x32.png filter=lfs diff=lfs merge=lfs -text
 static/favicon.ico filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
