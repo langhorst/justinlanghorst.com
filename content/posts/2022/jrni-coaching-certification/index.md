@@ -21,11 +21,11 @@ I’ve always wanted to directly help people in some capacity, I was just never 
 
 I used to think the idea of life coaching was pure BS. Though, I was coming from an ignorant perspective of what a life coach actually did. I thought it was about offering advice in whatever areas of life to … live better? To be happier? To gain more fulfillment in life? I don’t know, honestly it wasn’t clear and like a lot of things in life, I dismissed the concept for whatever reason before I knew much of what it was about.
 
-The main thing I got wrong in my assumption was related to advice. Life coaching isn’t about giving advice AT ALL. So what IS coaching, then?
+The main thing I got wrong in my assumption was related to advice. Life coaching isn’t about advice giving AT ALL. So what IS coaching, then?
 
 > Life coaching is a partnership between a coach and a client that moves the client forward to become the best version of themself through the application of motivation, accountability, planning, troubleshooting and support. — Lumia Coaching
 
-The primary role of a coach is to be a mirror for their clients and to shine light into the dark areas they may be unwilling to explore by themselves in order to aid their forward progress.
+The primary role of a coach is to be a mirror for their clients and to shine light into the dark areas clients lack awareness or are unwilling to explore by themselves in order to aid their forward progress.
 
 I believe people ultimately know what's best for themselves. We all have to do our own thing and make our own mistakes to learn and grow. And we all have to learn when to ask for help and how to actually receive it.
 
