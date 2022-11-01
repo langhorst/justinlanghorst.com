@@ -1,3 +1,6 @@
 [submodule "themes/hermit"]
 	path = themes/hermit
 	url = https://github.com/langhorst/hermit.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/langhorst/hugo-PaperMod.git
