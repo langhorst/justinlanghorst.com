@@ -106,7 +106,7 @@ Ultra-marathons and the preparations to run them pay off in so many ways. This p
 
 ## Pre-Race.
 
-We took some time preparing a few nights before the race so we wouldn't be up the night before making sure our bags were ready. This is smart. I don't usually do this, but I would absolutel recommend it. And I would absolutely recommend it. For me, it eliminates a potential source of stress and allows for better sleep the night before the race.
+We took some time preparing a few nights before the race so we wouldn't be up the night before making sure our bags were ready. This is smart. I don't usually do this, but I would absolutely recommend it. For me, it eliminates a potential source of stress and allows for better sleep the night before the race.
 
 {{< figure src="castle-peak-100k-drop-bag-prep-20210812.jpg" title="Drop Bag Prep / Tahoe City, California / 2021.08.12" alt="Preparing drop bags for the Castle Peak 100K, 2021" >}}
 
