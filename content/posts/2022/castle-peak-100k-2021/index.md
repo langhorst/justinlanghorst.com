@@ -76,7 +76,7 @@ One of the major destinations of my trip was the Tushars mountain range in south
 
 {{< figure src="tushars-100k-pacing-20210731.jpg" title="Pacing the Tushars 100K / Tushars Mountains, Utah / 2021.07.31" >}}
 
-It was early in my 20 miles of pacing that my runner and I met another runner and her pacer. The pacer was getting ready for the Leadville 100, one of the most well known and difficult 100 milers in the country. Later in the middle of the night, we met up again and we shared a bit of trail together, enjoying each other's company until our respective pacer's requested our presence once again.
+It was early in my 20 miles of pacing that my runner and I met another runner and her pacer. The pacer was getting ready for the Leadville 100, one of the most well known and difficult 100 milers in the country. Later in the middle of the night, we met up again and we shared a bit of trail together, enjoying each other's company until our respective pacers requested our presence once again.
 
 I remember a particular aspect of this conversation well, because it came back so vividly before Castle Peak and many times after. Here was a person I admired ... I admired her training, and her dedication to putting herself in the best shape possible for a successful finish of a very challening race. Physically for sure, and it seemed, mentally as well.
 
@@ -84,7 +84,7 @@ I told her that my training hadn't been up to my standards. That for whatever re
 
 But this was a lie. It didn't feel right coming out of my mouth then. And it certainly didn't feel right speaking it at any point in time later. The truth was that I really, really wanted the finish but couldn't figure out why I had been unable to get it together in training.
 
-Remember earlier when I said that the Castle Peak 100K is arguably the hardest 100K in the continental United States? Well. After doing 20 miles in the Tushar Mountains, especially through the middle of a thunderstorm with lightning surrounding us as we were making it UP the mountain, I'm going to agree with those who have run both that the Tushars 100K easily wins the difficultly title against the Castle Peak 100K. The terrain is just brutal. And unrelenting. And it's at a higher elevation that makes it difficult to breathe as a sea-level flatlander.
+Remember earlier when I said that the Castle Peak 100K is arguably the hardest 100K in the continental United States? Well. After doing 20 miles in the Tushar Mountains, especially through the middle of a thunderstorm with lightning surrounding us as we were making it UP the mountain, I'm going to agree with those who have run both that Tushars easily wins the most difficult 100K in the continental United States against Castle Peak. The terrain is just brutal. And unrelenting. And it's higher elevation makes it difficult to breathe as a sea-level flatlander.
 
 {{< figure src="tushars-100k-crewing-20210731.jpg" title="Crewing the Tushars 100K / Tushars Mountains, Utah / 2021.07.31" >}}
 
