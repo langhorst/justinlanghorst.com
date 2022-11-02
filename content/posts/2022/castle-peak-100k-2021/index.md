@@ -228,19 +228,19 @@ It's a very different mental experience quitting your own race versus being pull
 
 I knew I had a while to wait, given that Jourdan and Ray were going to take a while to come in. I sat against a tree, called my wife and talked to her as long as it made sense to do so.
 
-I wasn't really bummed at this point, I was more happy that I was going to get to have dinner with my friends. And we did. And we had a great time.
-
-It wasn't until a day after the race that I felt the significance of getting pulled from the race within my body. I was fucking bummed. And I was bummed because I knew I didn't give it my best. I didn't give it my best leading up to the race, and I didn't give it my best on the day. I allowed very minor issues to drive my thoughts into the negative and then I began exploring the narrative of stopping at the next aid station.
-
-I'd had my fun. It was time to go spend time with friends. Everyone else had dropped by this point, so it would just be me out there. Fuck.
+And then I talked with everybody else. Hanging out with a bunch of like-minded individuals can be very healing. I wasn't really bummed at this point, I was more happy that I was going to get to have dinner with my friends. And we did. Pizza. Beer. And a great time. And a lot of sleep afterwards.
 
 ## Thoughts.
 
-It wasn't until the next day that the reality of the situation really set in. I was bummed. Super bummed. It's often that when I talk about things saying that they are no big deal, that it's a REALLY FUCKING BIG DEAL. I tend to talk-down big things, I guess to ease the future pain from failure if they don't work out.
+It wasn't until a day after the race that I felt the significance of getting pulled from the race within my body. I was bummed. Super bummed.
+
+I was bummed because I knew I didn't give it my best. I didn't give it my best leading up to the race, and I didn't give it my best on race day. I allowed very minor issues to drive my thoughts into the negative and then I began exploring the narrative of stopping ... of seeking comfort.
+
+It's often that when I talk about big things as if they are no big deal, that they are a REALLY BIG FUCKING DEAL. I tend to talk-down big things, maybe to ease the future pain from failure if they don't work out.
 
 But that's the thing. It doesn't ease the pain. It doesn't protect anything. This strategy doesn't work at all. It's a farse. It's a big fucking lie.
 
-Castle Peak was a reminder of how important it is to know thyself. A reminder to consistently check-in with my body when I'm in conversation. How does what I'm saying make me feel? And as a result, a reminder to practice the inner work of knowing myself so I can more reliably tell myself the truth.
+Castle Peak was a reminder of how important it is to know thyself. A reminder to consistently check-in with my body as I say things in conversation. How does what I'm saying make me feel? How do I feel about what others are saying in response? And as a result, this is a reminder to practice the inner work of knowing myself so I can more consistently and reliably speak the real truth.
 
 This isn't the end of the story though. Oh no. After a float on the river with friends the next day, a bit of contemplation and an all-star pacer lined up, I was signed up for my first 100 miler to be run a few months later -- the 2021 Rio del Lago 100.
 
