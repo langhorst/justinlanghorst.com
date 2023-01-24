@@ -7,4 +7,6 @@ tags:
   - animation
 ---
 
-John Coltrane has long been one of my favorite artists. Giant Steps was indeed, a successful album and song of Coltrane’s and I was definitely happy to see that someone put this music to [animation](https://www.michalevy.com/animation).
+John Coltrane has long been one of my favorite artists. *Giant Steps* was indeed, a successful album and song of Coltrane's and I was definitely happy to see that someone put this music to [animation](https://www.michalevy.com/animation).
+
+{{< youtube id="rh6WTAHKYTc" title="Giant Steps" >}}
