@@ -30,7 +30,7 @@ This sustenance of carbon-based food is shared through the plant's root systems 
 
 But meadows do more than just sequester carbon. Since meadows are comprised of a rich diversity of native plants, they offer the same earth healing properties that come with landscaping with native plants. Meadows save water, improve air quality, provide wildlife habitat, improve air quality, and reduce maintenance, thereby reducing the amount of fossil fuels and chemicals needed to maintain the land.
 
-### 2. Meadows are easy to create.
+### 2. Meadows are easy to create (but require patience).
 Observation is the first step. This involves studying what’s already growing in the area, especially the weeds. Plants growing in the area are good indicators of the quality of your soil, moisture levels, and how much sunlight is available.
 
 Observations allow us to determine what plants are appropriate for our site. Once this is determined, there are two well-known rules for establishing a meadow:
@@ -56,7 +56,7 @@ Meadows that were started by seed typically reach maturity within 2-4 years. Car
 
 Why not mow in the winter after everything goes dormant? Because meadow plants supply seeds for animals and birds when food is sparse in the winter. They provide habitat for all sorts of awesome insects. And because a bunch of brown can look really cool with sunlight backlighting dormant grasses and flower stalks in the chill of February.
 
-### 4. Lawns are (mostly) a waste of resources.
+### 4. Conventional lawns are (mostly) a waste of resources.
 We use an enormous amount of resources to care for over 40 million acres of turf-grass in the continental United States. 40 million acres. This is more than 63,000 square miles, or about the size of Washington state, for closely-cropped areas of turf that return very little to our environment. In fact, “a conventional lawn produced more carbon dioxide than it absorbs.” (p13)
 
 #### Lawns consume a lot of time, money, and energy.
