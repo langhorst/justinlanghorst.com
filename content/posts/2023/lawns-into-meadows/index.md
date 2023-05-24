@@ -15,11 +15,11 @@ Wormser, Owen. *Lawns Into Meadows: Growing a regenerative landscape.* Stone Pie
 
 ## Five Things.
 
-We deserve a better goto, a better default landscaping choice than the standard American lawn. One that not only consumes considerably less water, fertilizer and maintenance, but one that increases biodiversity, enriches soil health, and removes carbon dioxide from the atmosphere simultaneously.
+We deserve a better goto, a better default landscaping choice than the standard American lawn. One that not only consumes considerably less water, fertilizer and maintenance, but one that increases biodiversity, enriches soil health, and simultaneously removes carbon dioxide from the atmosphere.
 
 We deserve a landscaping choice for our suburban land that is not only sustainable, but regenerative --- a net positive.
 
-Luckily we have one: meadows, or as we typically refer to them in the blackland prairie ecoregion of Texas --- prairies.
+Luckily we have one: *meadows*, or as we typically refer to them in the blackland prairie ecoregion of Texas: *prairies*.
 
 ### 1. Meadows allow the earth to heal itself.
 Meadows are extremely proficient at storing carbon in the soil, giving back to the earth much more than they take. One might refer to a meadow as a regenerative landscape.
@@ -28,16 +28,18 @@ These regenerative landscapes increase biodiversity, enrich soil health, and rem
 
 This sustenance of carbon-based food is shared through the plant's root systems with organisms living in the soil, such as mycelium and microbes. When these organisms die, the carbon remains in the soil.
 
+But meadows do more than just sequester carbon. Since meadows are comprised of a rich diversity of native plants, they offer the same earth healing properties that come with landscaping with native plants. Meadows save water, improve air quality, provide wildlife habitat, improve air quality, and reduce maintenance, thereby reducing the amount of fossil fuels and chemicals needed to maintain the land.
+
 ### 2. Meadows are easy to create.
-Observing the site to fully understand site conditions is the first step. This involves studying what’s already growing in the area, especially the weeds. Plants growing in the area are good indicators of the quality of your soil, moisture levels, and how much sunlight is available.
+Observation is the first step. This involves studying what’s already growing in the area, especially the weeds. Plants growing in the area are good indicators of the quality of your soil, moisture levels, and how much sunlight is available.
 
 Observations allow us to determine what plants are appropriate for our site. Once this is determined, there are two well-known rules for establishing a meadow:
 1. Seed into bare ground, and
 2. Plant native perennial seeds when it’s cool outside.
 
-But before we sow any seed, or plant any plugs, proper site preparation typically provides better results. While you can seed directly into a freshly cut lawn, less future work will be required after tilling or solarizing the area to remove the roots and dormant seeds of plants we don’t want.
+But before we sow any seed, or plant any plugs, proper site preparation typically provides better results. While you can seed directly into a freshly cut lawn, we can save on future work by tilling or solarizing the area to remove the roots and dormant seeds of plants we don’t want.
 
-Seed requires patience, and an element of letting go. If faster results are desired, plugs in early spring with mulch is the answer. Or a combination of seeds and plugs can be used, with the planting of plugs coming first and seeding afterwards.
+Seeding requires patience, and an element of letting go. If faster results are desired, plugs in early spring with mulch is a solution. Or a combination of seeds and plugs can be used, with the planting of plugs coming first and seeding afterwards.
 
 Whatever the case, there are a few design guidelines to abide by:
 - Use native plants.
