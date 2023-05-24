@@ -4,14 +4,12 @@ date: 2023-01-25T14:04:24-06:00
 tags:
   - book
   - five things
+  - personal growth
 ---
 
 {{< figure src="the-four-agreements.jpg" title="The Four Agreements / Don Miguel Ruiz" alt="Front cover of the book 'The Four Agreements' laying on a black countertop" >}}
 
-- Title: The four agreements: a practical guide to personal freedom.
-- Author: Miguel Ángel Ruiz
-- Year: 1997
-- Publisher: Amber-Allen Publishing, Inc.
+Ruiz, Miguel Ángel. *The Four Agreements: A practical guide to personal freedom.* Amber-Allen Publishing, Inc., 1997.
 
 ## Five Things.
 
