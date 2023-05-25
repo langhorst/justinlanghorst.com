@@ -9,6 +9,34 @@ tags:
   - coaching
   - jrni
   - lumia
+#summary: ""
+showToc: false
+TocOpen: false
+hidemeta: false
+comments: false
+#description: "Desc Text."
+#canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+#cover:
+#    image: "97383586-63CE-47FA-9858-CC25DD31E1A5.jpeg" # image path/url
+#    alt: "Justin Langhorst holding up Certificate of Achievement from The JRNI Coaching Intensive" # alt text
+#    caption: "JRNI Certificate of Achievement" # display caption under cover
+#    relative: false # when using page bundles set this to true
+#    hidden: true # only hide on current single page
+#editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
+
 ---
 
 {{< img class="right" src="97383586-63CE-47FA-9858-CC25DD31E1A5.jpeg" alt="Justin Langhorst holding up Certificate of Achievement from The JRNI Coaching Intensive" title="JRNI Certificate of Achievement" >}}

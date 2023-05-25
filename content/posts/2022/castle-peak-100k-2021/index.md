@@ -1,11 +1,34 @@
 ---
 title: "Castle Peak 100K (2021)"
 date: 2022-11-01T12:34:11-05:00
-toc: true
+showToc: true
 tags:
   - running
   - race
   - travel
+  - personal growth
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+#description: "Desc Text."
+#canonicalURL: "https://canonical.url/to/page"
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: "castle-peak-100k-morning-20210814.jpg" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
 ---
 
 One of the reasons I sign up to both enjoy and suffer through ultra-marathons is for the experience of sheer adventure. The nature. The people. The camaraderie of the trail running community.

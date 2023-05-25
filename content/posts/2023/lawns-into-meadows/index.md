@@ -1,5 +1,6 @@
 ---
 title: "Lawns Into Meadows"
+summary: "Five Things I learned from \"Lawns Into Meadows,\" a book by Owen Wormser about how to convert lawns into a regenerative meadow landscapes."
 date: 2023-05-23T22:26:43-05:00
 draft: false
 tags:
@@ -7,6 +8,34 @@ tags:
   - five things
   - meadows
   - prairies
+#summary: ""
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+#description: "Desc Text."
+#canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+#cover:
+#    image: "<image path/url>" # image path/url
+#    alt: "<alt text>" # alt text
+#    caption: "<text>" # display caption under cover
+#    relative: false # when using page bundles set this to true
+#    hidden: true # only hide on current single page
+#editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
+
 ---
 
 {{< figure src="lawns-into-meadows.jpg" title="Lawns Into Meadows / Owen Wormser" alt="Holding a book with the front cover of the book 'Lawns Into Meadows' showing in front of a background of native wildflowers" >}}
