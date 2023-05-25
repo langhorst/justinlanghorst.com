@@ -1,5 +1,5 @@
 ---
-title: "Lawns Into Meadows (Five Things)"
+title: "Lawns Into Meadows"
 date: 2023-05-23T22:26:43-05:00
 draft: false
 tags:

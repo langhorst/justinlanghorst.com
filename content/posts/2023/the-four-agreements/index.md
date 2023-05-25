@@ -1,5 +1,5 @@
 ---
-title: "The Four Agreements (Five Things)"
+title: "The Four Agreements"
 date: 2023-01-25T14:04:24-06:00
 tags:
   - book
