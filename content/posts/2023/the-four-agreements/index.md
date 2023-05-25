@@ -6,37 +6,21 @@ tags:
   - book
   - five things
   - personal growth
-#summary: ""
-showToc: true
+ShowToc: true
 TocOpen: false
-hidemeta: false
-comments: false
-#description: "Desc Text."
-#canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-#cover:
-#    image: "<image path/url>" # image path/url
-#    alt: "<alt text>" # alt text
-#    caption: "<text>" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: true # only hide on current single page
-#editPost:
-#    URL: "https://github.com/<path_to_repo>/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
-
+cover:
+    image: "the-four-agreements.jpg" # image path/url
+    alt: "Front cover of the book 'The Four Agreements' laying on a black countertop" # alt text
+    caption: "The Four Agreements / Don Miguel Ruiz" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 ---
-
-{{< figure src="the-four-agreements.jpg" title="The Four Agreements / Don Miguel Ruiz" alt="Front cover of the book 'The Four Agreements' laying on a black countertop" >}}
 
 Ruiz, Miguel Ángel. *The Four Agreements: A practical guide to personal freedom.* Amber-Allen Publishing, Inc., 1997.
 

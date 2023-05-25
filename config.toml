@@ -65,7 +65,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [params.homeInfoParams]
     title = "Hi, I'm Justin."
-    content = "Welcome to my home on the web."
+    content = "I'm a coach, developer, runner, lover, husband, father, naturalist, whatever and more. This is where I share some of my thoughts on whatever happens to interest me in the moment. Welcome to my home on the web."
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.

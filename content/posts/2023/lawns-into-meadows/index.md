@@ -8,37 +8,26 @@ tags:
   - five things
   - meadows
   - prairies
-#summary: ""
-showToc: true
+ShowToc: true
 TocOpen: false
-hidemeta: false
-comments: false
-#description: "Desc Text."
-#canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-#cover:
-#    image: "<image path/url>" # image path/url
-#    alt: "<alt text>" # alt text
-#    caption: "<text>" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: true # only hide on current single page
+cover:
+    image: "lawns-into-meadows.jpg" # image path/url
+    alt: "Holding a book with the front cover of the book 'Lawns Into Meadows' showing in front of a background of native wildflowers" # alt text
+    caption: "Lawns Into Meadows / Owen Wormser" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 #editPost:
 #    URL: "https://github.com/<path_to_repo>/content"
 #    Text: "Suggest Changes" # edit text
 #    appendFilePath: true # to append file path to Edit link
 
 ---
-
-{{< figure src="lawns-into-meadows.jpg" title="Lawns Into Meadows / Owen Wormser" alt="Holding a book with the front cover of the book 'Lawns Into Meadows' showing in front of a background of native wildflowers" >}}
 
 Wormser, Owen. *Lawns Into Meadows: Growing a regenerative landscape.* Stone Pier Press, 2020.
 
