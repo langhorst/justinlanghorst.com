@@ -19,4 +19,4 @@ An update. It's now November, 2018, more than two years after my initial attempt
 
 When my daughter got into the swing of kindergarten, I did too. I had more time and dedicated a lot of that time to work. When things eased up a bit, I found myself running more, strength training more, and slowly remade that initial committment to myself to become a faster runner.
 
-So in March of this year I got serious. It was time. And now I'm keeping an online training log and running notes over at [Just Run Free](https://www.justrunfree.com/).
+So in March of this year I got serious. It was time. And now I'm keeping an online training log and running notes over at Just Run Free (update: removed).
