@@ -73,9 +73,9 @@ params:
         imageHeight: 300
         buttons:
             - name: Coach
-              url: coaching
+              url: tags/coaching
             - name: Dev
-              url: development
+              url: tags/development
             - name: Blog
               url: posts
 
@@ -92,7 +92,7 @@ params:
 
     socialIcons:
         - name: Linkedin
-          url: "https://www.linkedin.com/justinlanghorst"
+          url: "https://www.linkedin.com/in/justinlanghorst/"
         - name: Instagram
           url: "https://www.instagram.com/justin.langhorst"
         - name: Facebook
