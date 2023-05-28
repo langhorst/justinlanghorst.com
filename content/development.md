@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Development"
+date: 2023-05-27T21:14:31-05:00
 #summary: ""
 #description: ""
 draft: true
@@ -11,7 +11,7 @@ comments: false
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false
-searchHidden: false
+searchHidden: true
 showReadingTime: true
 showBreadCrumbs: true
 showPostNavLinks: true

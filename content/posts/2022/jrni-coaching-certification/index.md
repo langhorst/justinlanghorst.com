@@ -26,20 +26,18 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-#cover:
-#    image: "97383586-63CE-47FA-9858-CC25DD31E1A5.jpeg" # image path/url
-#    alt: "Justin Langhorst holding up Certificate of Achievement from The JRNI Coaching Intensive" # alt text
-#    caption: "JRNI Certificate of Achievement" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: true # only hide on current single page
+cover:
+    image: "97383586-63CE-47FA-9858-CC25DD31E1A5.jpeg" # image path/url
+    alt: "Justin Langhorst holding up Certificate of Achievement from The JRNI Coaching Intensive" # alt text
+    caption: "JRNI Certificate of Achievement" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 #editPost:
 #    URL: "https://github.com/<path_to_repo>/content"
 #    Text: "Suggest Changes" # edit text
 #    appendFilePath: true # to append file path to Edit link
 
 ---
-
-{{< img class="right" src="97383586-63CE-47FA-9858-CC25DD31E1A5.jpeg" alt="Justin Langhorst holding up Certificate of Achievement from The JRNI Coaching Intensive" title="JRNI Certificate of Achievement" >}}
 
 It was summer 2020 and I was alone on my way back home from a short stay at the coast with family and friends. I often listen to podcasts while driving so what a perfect opportunity to listen to a new one by the author of a book I had been reading at the time: [John Kim's](https://www.theangrytherapist.com) *The Angry Therapist*, a no BS guide to self-improvement.
 

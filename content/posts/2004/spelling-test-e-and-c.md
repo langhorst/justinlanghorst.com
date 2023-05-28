@@ -47,4 +47,10 @@ I sat there thinking to myself, how could these two individuals honestly believe
 
 ---
 
-An update from January, 2022: this particular instance was a missed opportunity for growth, which I'm going to assume is why this seemingly insignificant aspect of my life is a memory I still occasionally reflect upon. Instead of just accepting my fate, it would have been a great opportunity to discuss the issue with my teacher. Instead, I stayed quiet. I stayed small. And the only growth that happened is a memory of what not to do again. Speak the fuck up, Justin, and yet, in a manner that wins the hearts of many.
+*An update from January, 2022:*
+
+This particular instance was a missed opportunity for growth, which I'm going to assume is why this seemingly insignificant aspect of my life is a memory I still occasionally reflect upon.
+
+Instead of just accepting my fate, it would have been a great opportunity to discuss the issue with my teacher. Instead, I stayed quiet. I stayed small. And the only growth that happened is a memory of what not to do again.
+
+Speak the fuck up, Justin, and yet, in a manner that wins the hearts of many.

@@ -1,19 +1,19 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Coaching"
+date: 2023-05-27T21:14:27-05:00
 #summary: ""
 #description: ""
-draft: true
+draft: false
 showToc: true
 tocOpen: false
-hidemeta: false
+hidemeta: true
 comments: false
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false
 searchHidden: false
 showReadingTime: true
-showBreadCrumbs: true
+showBreadCrumbs: false
 showPostNavLinks: true
 showWordCount: true
 showRssButtonInSectionTermList: true
@@ -25,3 +25,5 @@ useHugoToc: true
 #    relative: false
 #    hidden: false
 ---
+
+Hi. I help people discover what's authentic to them, and to go after it.

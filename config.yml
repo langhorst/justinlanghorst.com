@@ -1,6 +1,6 @@
 baseURL: "https://www.justinlanghorst.com/"
 title: Justin Langhorst
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -21,20 +21,22 @@ languages:
         languageName: "English"
         weight: 1
         taxonomies:
-          category: categories
           tag: tags
           series: series
         menu:
             main:
-                - name: Archive
-                  url: archives
-                  weight: 5
                 - name: Search
                   url: search/
                   weight: 10
+                - name: Archive
+                  url: archives
+                  weight: 20
                 - name: Tags
                   url: tags/
-                  weight: 15
+                  weight: 30
+                - name: About
+                  url: about/
+                  weight: 40
 
 outputs:
     home:
@@ -50,7 +52,7 @@ params:
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
+    #ShowShareButtons: true
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: false
@@ -63,17 +65,19 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "#"
-        imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
+        enabled: true
+        title: Hi, I'm Justin.
+        imageUrl: "posts/2022/castle-peak-100k-2021/justin-langhorst-horseshoe-bend-20210801.jpg"
+        imageTitle: Justin Langhorst
+        imageWidth: 300
+        imageHeight: 300
         buttons:
-            - name: Archives
-              url: archives
-            - name: Tags
-              url: tags
+            - name: Coach
+              url: coaching
+            - name: Dev
+              url: development
+            - name: Blog
+              url: posts
 
     homeInfoParams:
         Title: "PaperMod"
@@ -87,17 +91,21 @@ params:
             - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
     socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: Rss
+        - name: Linkedin
+          url: "https://www.linkedin.com/justinlanghorst"
+        - name: Instagram
+          url: "https://www.instagram.com/justin.langhorst"
+        - name: Facebook
+          url: "https://www.facebook.com/justinlanghorst"          
+        - name: GitHub
+          url: "https://www.github.com/langhorst"
+        - name: RSS
           url: "index.xml"
 
-    editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+    # editPost:
+    #     URL: "https://github.com/langhorst/justinlanghorst.com/content/"
+    #     Text: "Suggest Changes" # edit text
+    #     appendFilePath: true # to append file path to Edit link
 
     # label:
     #     text: "Home"
@@ -116,10 +124,10 @@ params:
     #     apple_touch_icon: "<link / abs url>"
     #     safari_pinned_tab: "<link / abs url>"
 
-    # cover:
-    #     hidden: true # hide everywhere but not in structured data
-    #     hiddenInList: true # hide on list pages and home
-    #     hiddenInSingle: true # hide on single page
+    cover:
+        hidden: false # hide everywhere but not in structured data
+        hiddenInList: false # hide on list pages and home
+        hiddenInSingle: false # hide on single page
 
     # fuseOpts:
     #     isCaseSensitive: false
@@ -153,7 +161,7 @@ privacy:
         simple: true
 
     instagram:
-        disabled: false
+        disabled: true
         simple: true
 
     youtube:

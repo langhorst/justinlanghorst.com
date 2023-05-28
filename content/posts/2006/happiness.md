@@ -4,6 +4,7 @@ date: 2006-06-06T12:34:11-06:00
 tags:
   - life
   - music
+  - random
 #summary: ""
 showToc: true
 TocOpen: false
