@@ -4,23 +4,6 @@ date: 2021-01-15T20:19:11-05:00
 tags:
     - quotes
     - gratitude
-#summary: ""
-#description: ""
-draft: true
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "gratitude-rumi.jpg"
     alt: "Handwritten note in blue ink by Rumi: Gratitude is the wine for the soul. Go on. Get drunk."

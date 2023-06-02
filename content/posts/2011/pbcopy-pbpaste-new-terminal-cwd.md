@@ -13,11 +13,15 @@ When I was growing up and mastering conventional memory management in DOS for th
 
 Now I can simply pipe the current working directory to the clipboard:
 
-    pwd | pbcopy
+```bash
+pwd | pbcopy
+```
 
 Open a new terminal tab or window, and use a combination of cd and Command-V or pbpaste to get back to the original directory:
 
-    cd `pbpaste`
-    cd [Command-V]
+```bash
+cd `pbpaste`
+cd [Command-V]
+```
 
 While `pbcopy` and `pbpaste` are excellent utilities, they aren’t the best solution for what I originally set out to do: open a new tab in the current working directory. I’m sure there is an even quicker way to get to the same current working directory, probably with an AppleScript, and I suspect that OS X Lion has an option for this in Terminal, but for now, `pbcopy` will do the trick.

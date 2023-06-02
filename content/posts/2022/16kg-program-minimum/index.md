@@ -5,23 +5,6 @@ tags:
     - kettlebells
     - program minimum
     - strength
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "16kg-kettlebell-yoga-mat.jpg"
     alt: "16kg kettlebell on Manduka yoga mat, feet standing on mat"

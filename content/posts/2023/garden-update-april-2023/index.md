@@ -5,23 +5,6 @@ tags:
     - photos
     - gardening
     - prairies
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "342355501_144654845239873_5416002138946979549_n.jpg"
     alt: "Wildflowers from a low angle, greenthreads, bluebonnets"

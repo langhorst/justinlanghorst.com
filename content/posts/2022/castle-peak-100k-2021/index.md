@@ -1,34 +1,18 @@
 ---
 title: "Castle Peak 100K (2021)"
 date: 2022-11-01T12:34:11-05:00
-showToc: true
 tags:
   - running
   - race
   - travel
   - personal growth
-TocOpen: false
-draft: false
-hidemeta: false
-comments: false
-#description: "Desc Text."
-#canonicalURL: "https://canonical.url/to/page"
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+tocOpen: true
 cover:
     image: "castle-peak-100k-morning-20210814.jpg" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    alt: "Ski lift at the top of a hill with internal red lights, backdrop is cloudy, hazy sunrise" # alt text
+    caption: "Star Wars, Castle Peak" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
 One of the reasons I sign up to both enjoy and suffer through ultra-marathons is for the experience of sheer adventure. The nature. The people. The camaraderie of the trail running community.
@@ -39,7 +23,7 @@ I intended to finish the 62 miles of this race on very little training. While I 
 
 Continue reading a bunch more words about this and more from this guy:
 
-{{< figure src="justin-langhorst-20210308.jpg" title="The Idiot (What am I doing this race for again!?) / 2021.03.08" alt="Justin Langhorst with crazy face" >}}
+{{< figure src="justin-langhorst-20210308.jpg" caption="The Idiot (What am I doing this race for again!?) / 2021.03.08" alt="Justin Langhorst with crazy face" >}}
 
 How do I respond physically, mentally and emotionally when the suck inevitably begins? How long am I able to push through, and when do I begin to fall apart? After the race is done and I've had some time to process the experience, what made the experience great? What made it not so great? What could I have done better?
 
@@ -75,19 +59,19 @@ Yet, two successful trips earlier in the year served up a healthy dose of confid
 
 ### Guadalupe Mountains + Carlsbad Caverns with my Father-in-Law.
 
-{{< figure src="guadalupe-mountains-sky-20210505.jpg" title="The Guadalupe Mountains (I love the desert) / Texas / 2021.05.05" alt="Backdrop of Guadalupe Mountains, TX with desert flowers in the foreground" >}}
+{{< figure src="guadalupe-mountains-sky-20210505.jpg" caption="The Guadalupe Mountains (I love the desert) / Texas / 2021.05.05" alt="Backdrop of Guadalupe Mountains, TX with desert flowers in the foreground" >}}
 
 I spent a few days in the Guadalupe Mountains and Carlsbad Caverns National Parks with my father-in-law in early May of 2021. I was fit enough to get up to Guadalupe Peak and back down in good time. This was promising.
 
 The only mistake I made was not re-applying sunblock at Guadalupe Peak. I simply underestimated the intensity of the sun at this time of year.
 
-{{< figure src="justin-langhorst-guadalupe-peak-20210506.jpg" title="At Guadalupe Peak, accumulating sunburn at the highest point of Texas / Guadalupe Mountains National Park / 2021.05.06" alt="Justin Langhorst in sunglasses and a hat at Guadalupe Peak in Guadalupe Mountains National Park with monument in the background" >}}
+{{< figure src="justin-langhorst-guadalupe-peak-20210506.jpg" caption="At Guadalupe Peak, accumulating sunburn at the highest point of Texas / Guadalupe Mountains National Park / 2021.05.06" alt="Justin Langhorst in sunglasses and a hat at Guadalupe Peak in Guadalupe Mountains National Park with monument in the background" >}}
 
 You can guess what happened while running in the middle of the desert without proper sunblock. And if your guess is anything other than the sun loving me SO hard, well, guess again.
 
 While the severe sunburn limited the amount of running I had planned in the mountains, I was fortunately able to grab an unexpected run from the bottom of Carlsbad Caverns up to the top -- a nice little hill run, avoiding the sun in the cool darkness of the caverns. While repeats would have been better, time did not permit, and I was absolutely grateful for the unexpected training run.
 
-{{< figure src="carlsbad-caverns-sky-20210507.jpg" title="A view of the beautiful desert landscape after an afternoon shower / Carlsbad Caverns National Park / 2021.05.07" alt="Desert landscape with clouds in Carlsbad Caverns National Park" >}}
+{{< figure src="carlsbad-caverns-sky-20210507.jpg" caption="A view of the beautiful desert landscape after an afternoon shower / Carlsbad Caverns National Park / 2021.05.07" alt="Desert landscape with clouds in Carlsbad Caverns National Park" >}}
 
 The view after coming out of the cavern was just fantastic. It was raining a bit as we were leaving, and I just had to grab a few photos of the beautiful landscape before we jumped back into the car.
 
@@ -97,7 +81,7 @@ A few months later I spent a couple weeks exploring the great American southwest
 
 One of the major destinations of my trip was the Tushars mountain range in southern Utah. My buddy had asked me earlier in the year to pace him at the Tushars 100K, thought to be THE hardest 100K race in the country by people who have raced both Tushars AND Castle Peak.
 
-{{< figure src="tushars-100k-pacing-20210731.jpg" title="Pacing the Tushars 100K / Tushars Mountains, Utah / 2021.07.31" >}}
+{{< figure src="tushars-100k-pacing-20210731.jpg" caption="Pacing the Tushars 100K / Tushars Mountains, Utah / 2021.07.31" >}}
 
 It was early in my 20 miles of pacing that my runner and I met another runner and her pacer. The pacer was getting ready for the Leadville 100, one of the most well known and difficult 100 milers in the country. Later in the middle of the night, we met up again and we shared a bit of trail together, enjoying each other's company until our respective pacers requested our presence once again.
 
@@ -109,7 +93,7 @@ But this was a lie. It didn't feel right coming out of my mouth then. And it cer
 
 Remember earlier when I said that the Castle Peak 100K is arguably the hardest 100K in the continental United States? Well. After doing 20 miles in the Tushar Mountains, especially through the middle of a thunderstorm with lightning surrounding us as we were making it UP the mountain, I'm going to agree with those who have run both that Tushars easily wins the most difficult 100K in the continental United States against Castle Peak. The terrain is just brutal. And unrelenting. And it's higher elevation makes it difficult to breathe as a sea-level flatlander.
 
-{{< figure src="tushars-100k-crewing-20210731.jpg" title="Crewing the Tushars 100K / Tushars Mountains, Utah / 2021.07.31" >}}
+{{< figure src="tushars-100k-crewing-20210731.jpg" caption="Crewing the Tushars 100K / Tushars Mountains, Utah / 2021.07.31" >}}
 
 My runner and I had a good time though, if you consider suffering together a good time. I do. He do. We do.
 
@@ -121,21 +105,21 @@ The most important thing at Tushars is that my runner killed it. Maybe not in th
 
 A few days later, back in Flagstaff, and now joined by one of my bestest friends that surprised me by flying in from Florida, a group of us fast hiked up to the tippy top of Arizona: Humphreys Peak. More excellent training. More good times. Great adventure.
 
-{{< figure src="humphreys-peak-az-20210804.jpg" title="At Humphreys Peak, the highest point of Arizona / Flagstaff, Arizona / 2021.08.04" >}}
+{{< figure src="humphreys-peak-az-20210804.jpg" caption="At Humphreys Peak, the highest point of Arizona / Flagstaff, Arizona / 2021.08.04" >}}
 
 Ultra-marathons and the preparations to run them pay off in so many ways. This particular bout of travel led to new friends, deeper relationships, and travel into an area of the country I had never been before and deeply fell in love with.
 
-{{< figure src="justin-langhorst-horseshoe-bend-20210801.jpg" title="Happily exploring random places along my route / Horseshoe Bend, Arizona / 2021.08.01" alt="Justin Langhorst at Horseshoe Bend in 2021, Arizona" >}}
+{{< figure src="justin-langhorst-horseshoe-bend-20210801.jpg" caption="Happily exploring random places along my route / Horseshoe Bend, Arizona / 2021.08.01" alt="Justin Langhorst at Horseshoe Bend in 2021, Arizona" >}}
 
 ## Pre-Race.
 
 We took some time preparing a few nights before the race so we wouldn't be up the night before making sure our bags were ready. This is smart. I don't usually do this, but I would absolutely recommend it. For me, it eliminates a potential source of stress and allows for better sleep the night before the race.
 
-{{< figure src="castle-peak-100k-drop-bag-prep-20210812.jpg" title="Drop Bag Prep / Tahoe City, California / 2021.08.12" alt="Preparing drop bags for the Castle Peak 100K, 2021" >}}
+{{< figure src="castle-peak-100k-drop-bag-prep-20210812.jpg" caption="Drop Bag Prep / Tahoe City, California / 2021.08.12" alt="Preparing drop bags for the Castle Peak 100K, 2021" >}}
 
 We took a small tour of the crewable aid stations before heading to the pre-race meeting. This allowed our crew to prepare and us to chill before the big day.
 
-{{< figure src="castle-peak-100k-packet-pickup-20210813.jpg" title="Packet Pickup / Truckee, California / 2021.08.13" >}}
+{{< figure src="castle-peak-100k-packet-pickup-20210813.jpg" caption="Packet Pickup / Truckee, California / 2021.08.13" >}}
 
 ## The Race.
 
@@ -149,7 +133,7 @@ I forgot to bring gaiters with me, so after making it to the top of the hill, I 
 
 The view up top was awesome. My favorite image was of a Star Wars-looking ski lift, red light inside, against the backdrop of a morning sunrise. So cool. This section of the trail was smooth and easy, so I made sure to pick up the pace to bank some time I knew I'd need later.
 
-{{< figure src="castle-peak-100k-morning-20210814.jpg" title="Star Wars Ski Lift / Truckee, California / 2021.08.14 05:55" >}}
+{{< figure src="castle-peak-100k-morning-20210814.jpg" caption="Star Wars Ski Lift / Truckee, California / 2021.08.14 05:55" >}}
 
 It wasn't long before I reached my first crewable aid-station. My fellow Texas runners were ahead of me by this point, but I was able to catch up with them at the aid-station before they took off. Our crew was there and ready to help, to which I gratefully accepted.
 
@@ -157,7 +141,7 @@ It wasn't long before I reached my first crewable aid-station. My fellow Texas r
 
 Adam, part of our crew and a well-known runner around Truckee, knows this route well from regular training runs in the area. He reminded me to look back once reaching the top of the hill coming out of Johnson Canyon because the view of Donnor Lake is incredible. I did turn around. And the view was as incredible as promised -- thank you Adam!
 
-{{< figure src="castle-peak-100k-donnor-lake-20210814-085108.jpg" title="Donnor Lake after passing through Johnson Canyon / 2021.08.14 08:51" alt="Donnor Lake from the trail" >}}
+{{< figure src="castle-peak-100k-donnor-lake-20210814-085108.jpg" caption="Donnor Lake after passing through Johnson Canyon / 2021.08.14 08:51" alt="Donnor Lake from the trail" >}}
 
 I had been trying to find earbud tips for days, and luckily found the missing tip the evening before the race. I put my earbuds around my neck before the race, and they sat there unused until around mile 10.5 when I made my first and only call during the race to my wife. No answer. I spent a few minutes listening to a podcast and then decided I'd rather be with myself in nature than somewhere else. Several miles later I would lose that earbud tip again, and this time, for good.
 
@@ -165,7 +149,7 @@ I had been trying to find earbud tips for days, and luckily found the missing ti
 
 This stretch of the trail is where I eventually caught up to Ray. He was moving slowly through a more technical portion of the trail before the descent to Frog Lake. He looked excited to see me, and ... momentarily beat down. He informed me that Jourdan was no more than a half-mile ahead, and so I pushed on, running the downhills as they came.
 
-{{< figure title="Scenery along the trail / Castle Peak 100K / 2021.08.14" src="castle-peak-100k-scenery-20210814.jpg" alt="A view along the trail during Castle Peak 100K, 2021" >}}
+{{< figure caption="Scenery along the trail / Castle Peak 100K / 2021.08.14" src="castle-peak-100k-scenery-20210814.jpg" alt="A view along the trail during Castle Peak 100K, 2021" >}}
 
 My strategy all along was to just keep pushing forward at a steady pace. I finally passed by Jourdan on my way into the Frog Pond aid-station as she was running out. The gap, getting closer.
 
@@ -175,7 +159,7 @@ And then ... then here comes Ray right behind me, a wtf in my mind considering h
 
 The way back out of Frog Pond is where I lost my earbud tip once again for good — damn. I didn't really need additional help at this point though. I had enough Coke in me to give me a boost and honestly, it was time to stalk Jourdan and eventually take the lead.
 
-{{< figure title="Stalking Jourdan / Castle Peak 100K / 2021.08.14 12:23" src="castle-peak-100k-stalking-20210814-122336.jpg" alt="A view from the trail at Castle Peak 100K 2021" >}}
+{{< figure caption="Stalking Jourdan / Castle Peak 100K / 2021.08.14 12:23" src="castle-peak-100k-stalking-20210814-122336.jpg" alt="A view from the trail at Castle Peak 100K 2021" >}}
 
 I'm fairly strong on hills, so I'm making it a point to bust my ass as much as possible to close the gap. I packed a few bags of chips in various places and I'm trying to eat along the way to keep up my energy.
 
@@ -191,13 +175,13 @@ The route to THE BOTTOM, down to Warren Lake, was absolutely gorgeous. Peter the
 
 My first fall, which wasn't even a proper fall, was on the trip down the "steps" to Warren Lake. Everything slipped but my left leg, which saved me from falling but pushed my left calf muscle to complete exhaustion where it immediately seized. It took a few minutes of breathing into it to get it functional again. After that, I decided that maybe it would be best to slow it down and take the descent a little more carefully, as the great Peter the race director suggested in our pre-race meeting.
 
-{{< figure src="castle-peak-100k-warren-lake-20210814.jpg" title="On the trail to Warren Lake / 2021.08.14" >}}
+{{< figure src="castle-peak-100k-warren-lake-20210814.jpg" caption="On the trail to Warren Lake / 2021.08.14" >}}
 
 Making it to the bottom was awesome, with heavy metal blasting, and all of the aid-station volunteers screaming "WELCOME TO THE BOTTOM!" upon arrival. The energy they had to give at such a remote location in the race was welcomed and appreciated.
 
 This is one of the best things about the trail running community that I would love to see more of in daily life: supporting others in their own quest for greatness in life. Maybe this is easier to do when the goal of others is something straightforward and well-understood. Maybe that's just one of our challenges in daily life -- to be curious, and to try to understand where others are coming from, what they're trying to do, and ... how we can support them.
 
-{{< figure title="At Warren Lake / Castle Peak 100K / 2021.08.14 13:59" src="castle-peak-100k-warren-lake-20210814-135909.jpg" alt="Warren Lake, California, 2021" >}}
+{{< figure caption="At Warren Lake / Castle Peak 100K / 2021.08.14 13:59" src="castle-peak-100k-warren-lake-20210814-135909.jpg" alt="Warren Lake, California, 2021" >}}
 
 Jourdan joined me at Warren Lake about 10 minutes after I arrived. I decided to wade in, taking my shoes and socks off beforehand. Because — I mean, REMOTE MOUNTAIN LAKE! Have you experienced how beautiful and pristine mountain lakes in the middle of nowhere are? Because let me tell you, they are one the most awesome things I have experienced in my life.
 
@@ -209,7 +193,7 @@ My way out of Warren Lake was much less eventful than my way down. I was near th
 
 I was in good spirits. It's usually not hard for me to maintain this attitude for a considerable amount of time. Especially as I took advantage of the out and back to congratulate people as we passed one another -- "Great work! Keep at it!" -- that kind of thing. I absolutely love congratulating every single person that crosses my path during a race. It brings me such tremendous energy -- the most positive of vibes.
 
-{{< figure title="The Ridgeline / Castle Peak 100K / 2021.08.14 15:48" src="castle-peak-100k-ridgeline-20210814.jpg" alt="Ridgeline of Castle Peak" >}}
+{{< figure caption="The Ridgeline / Castle Peak 100K / 2021.08.14 15:48" src="castle-peak-100k-ridgeline-20210814.jpg" alt="Ridgeline of Castle Peak" >}}
 
 On my way up into the epic ridgelines of the race, I came across a gentleman puking his guts out on the side of the trail. I asked him how he was doing, which he reasonably responded, "how does it look like I'm doing!?" And I was like, "yeah, I know man, tell me what you need."
 
@@ -221,7 +205,7 @@ Going up into the ridge lines was just epic, Castle Peak being the highest peak 
 
 While gorgeous, the soil is silty up there. This means that if you aren't experienced running in this type of terrain and aren't willing to fully send it, it's a grind and takes forever to make it through what is otherwise fairly easy. Given the amount of training I did for this race, it's probably easy enough to guess how I faired -- but I'll make it very clear for you -- this section took me for freakin' ever.
 
-{{< figure title="Playing along the ridge lines / Castle Peak 100K / 2021.08.14 16:01" src="castle-peak-100k-ridgeline-selfie-20210814.jpg" alt="Castle Peak 100K Ridgeline Selfie, Justin Langhorst, 2021" >}}
+{{< figure caption="Playing along the ridge lines / Castle Peak 100K / 2021.08.14 16:01" src="castle-peak-100k-ridgeline-selfie-20210814.jpg" alt="Castle Peak 100K Ridgeline Selfie, Justin Langhorst, 2021" >}}
 
 I fell a few times. I became irritated with the silt. The scree. I wanted to hang out with my friends and go have a nice dinner, especially since they were most definitely going to be pulled from the race at this point. And, it was at this time I got it in my head that I was going to quit. My next aid station would be my last. Fuck.
 
@@ -267,4 +251,4 @@ Castle Peak was a reminder of how important it is to know thyself. A reminder to
 
 This isn't the end of the story though. Oh no. After a float on the river with friends the next day, a bit of contemplation and an all-star pacer lined up, I was signed up for my first 100 miler to be run a few months later -- the 2021 Rio del Lago 100.
 
-{{< figure title="Floating the river / Tahoe City / 2021.08.15" src="floating-the-river-20210815.jpg" alt="Selfie while floating the river in Tahoe City, California" >}}
+{{< figure caption="Floating the river / Tahoe City / 2021.08.15" src="floating-the-river-20210815.jpg" alt="Selfie while floating the river in Tahoe City, California" >}}

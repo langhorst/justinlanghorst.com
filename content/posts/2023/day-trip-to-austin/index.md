@@ -5,23 +5,6 @@ tags:
     - photos
     - adventure
     - austin
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "congress-bridge-austin.jpg"
     alt: "View of sunset on top of Congress Bridge in Austin, Texas"

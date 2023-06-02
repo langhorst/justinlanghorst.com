@@ -3,29 +3,6 @@ title: "You have all the answers within ..."
 date: 2021-02-10T12:34:11-05:00
 tags:
   - coaching
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
-#cover:
-#    image: "<image path/url>"
-#    alt: "<alt text>"
-#    caption: "<text>"
-#    relative: false
-#    hidden: false
 ---
 
 ... and to find them takes consistent practice, consistent inner work to tap into the universal energy where the answers are dancing around in space like feathers, waiting for you to get still enough to gracefully fall into your lap.

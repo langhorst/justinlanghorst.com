@@ -2,27 +2,8 @@
 title: "Cold Storage Crypto Wallet Howto"
 date: 2022-01-03T11:38:07-06:00
 draft: true
-toc: false
-images:
 tags: 
   - crypto
-#summary: ""
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-#description: "Desc Text."
-#canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 #cover:
 #    image: "<image path/url>" # image path/url
 #    alt: "<alt text>" # alt text

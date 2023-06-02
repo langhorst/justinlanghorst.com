@@ -4,23 +4,6 @@ date: 2021-01-20T20:53:31-05:00
 tags:
     - coaching
     - yoga 
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "f5382c13ac.jpg"
     alt: "<alt text>"

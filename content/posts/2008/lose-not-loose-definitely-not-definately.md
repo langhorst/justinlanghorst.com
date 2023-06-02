@@ -1,40 +1,9 @@
 ---
 title: "LOSE not LOOSE, DEFINITELY not DEFINATELY"
 date: 2008-08-19T12:34:00-06:00
-draft: false
-toc: false
-images:
 tags: 
   - grammar
   - rant
-#summary: ""
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-#description: "Desc Text."
-#canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-#cover:
-#    image: "<image path/url>" # image path/url
-#    alt: "<alt text>" # alt text
-#    caption: "<text>" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: true # only hide on current single page
-#editPost:
-#    URL: "https://github.com/<path_to_repo>/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
-
 ---
 
 I’m so tired of seeing “loose” used for the word “lose” all over the web. This seems to be an increasingly common grammatical error. If Lose and Loose were to get in a fight, I think Lose might actually lose, especially if they were to fight in a loose manner.

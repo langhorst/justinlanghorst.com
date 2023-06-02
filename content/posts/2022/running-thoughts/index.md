@@ -5,33 +5,12 @@ draft: false
 tags:
     - running
     - life
-#summary: ""
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-#description: "Desc Text."
-#canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
     image: "153a1126ce.jpg" # image path/url
     alt: "Moon against a night sky" # alt text
     caption: "The Moon" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-#editPost:
-#    URL: "https://github.com/<path_to_repo>/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
 ---
 
 Out the door at 9:22pm. Short running shorts. Black socks. Black shoes. Garmin.

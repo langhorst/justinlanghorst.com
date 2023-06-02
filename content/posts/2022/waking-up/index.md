@@ -1,26 +1,9 @@
 ---
 title: "Waking Up"
 date: 2022-12-14T17:24:49-05:00
-draft: false
 tags:
     - volunteering
     - naturalist
-#summary: ""
-#description: ""
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "winter-windmill-garden.jpg"
     alt: "Looking down a path, close to ground, red oak tree in the distance, winter"

@@ -48,20 +48,20 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "A series of semi-whenever somethings."
     author: Justin Langhorst
-    # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
-    # disableThemeToggle: true
-    #ShowShareButtons: true
-    ShowReadingTime: true
+    disableThemeToggle: false
+    showShareButtons: false
+    showReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: false
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: true
-    ShowToc: true
-    # comments: false
+    searchHidden: false
+    showPostNavLinks: true
+    showBreadCrumbs: false
+    showCodeCopyButtons: true
+    showRssButtonInSectionTermList: true
+    showToc: true
+    comments: false
     images: ["papermod-cover.png"]
 
     profileMode:

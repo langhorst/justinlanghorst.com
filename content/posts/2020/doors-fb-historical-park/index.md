@@ -4,23 +4,6 @@ date: 2020-11-10T21:29:28-05:00
 tags:
     - photos
     - quotes
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "7b0a93ca8e.jpg"
     alt: "White doors, entrance to church at the Farmers Branch Historical Park"

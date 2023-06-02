@@ -5,23 +5,6 @@ tags:
     - quotes
     - happiness
     - coaching
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "happiness-frankl.jpg"
     alt: "Handwritten quote in blue ink on lined paper with box around words by Viktor Frankl: A human being is not one in pursuit of happiness but rather in search of a reason to become happy."

@@ -8,23 +8,6 @@ tags:
     - coaching
     - photos
     - running
-#summary: ""
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-#description: "Desc Text."
-#canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
     image: "90e984959b.jpg"
     alt: "Lake Grapevine"

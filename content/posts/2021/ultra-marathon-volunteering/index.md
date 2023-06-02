@@ -6,23 +6,6 @@ tags:
   - races
   - volunteering
   - coaching
-#summary: ""
-#description: ""
-draft: true
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "b38a341399.jpg"
     alt: "Looking outside from the 2nd floor of a Best Western in Huntsville, TX, rain coming down"

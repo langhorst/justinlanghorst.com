@@ -3,23 +3,6 @@ title: "You is beautiful."
 date: 2021-02-09T12:34:11-05:00
 tags:
   - coaching
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "58f5db7fc3.jpg"
     alt: "Justin sitting at a table with sunglasses on, staring off into space"

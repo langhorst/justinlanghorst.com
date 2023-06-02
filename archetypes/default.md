@@ -1,23 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-#summary: ""
-#description: ""
+tags: 
 draft: true
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 #cover:
 #    image: "<image path/url>"
 #    alt: "<alt text>"
@@ -25,3 +10,5 @@ useHugoToc: true
 #    relative: false
 #    hidden: false
 ---
+
+Write!

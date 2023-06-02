@@ -7,23 +7,6 @@ tags:
     - jazz
     - performing
     - gratitude
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "2003-uta-jo.jpg"
     alt: "Members of the 2003 UTA Jazz Orchestra"

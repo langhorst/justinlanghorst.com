@@ -5,22 +5,6 @@ draft: false
 tags:
     - coffee
     - photos
-#summary: ""
-#description: ""
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "the-n-33.jpg"
     alt: "Coffee in glass with white backdrop"

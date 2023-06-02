@@ -4,23 +4,6 @@ date: 2021-01-15T20:20:11-05:00
 tags:
     - quotes
     - soul mates
-#summary: ""
-#description: ""
-draft: true
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
 cover:
     image: "soul-mates-gilbert.jpg"
     alt: "<alt text>"

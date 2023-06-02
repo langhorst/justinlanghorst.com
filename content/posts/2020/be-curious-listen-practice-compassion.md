@@ -3,29 +3,6 @@ title: "Be Curious. Listen. Practice Compassion."
 date: 2020-11-11T12:27:37-05:00
 tags:
     - compassion
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
-#cover:
-#    image: "<image path/url>"
-#    alt: "<alt text>"
-#    caption: "<text>"
-#    relative: false
-#    hidden: false
 ---
 
 I came across an article this morning by Dennis Sanders entitled *[Attention must be paid: the electoral lessons of the working class](https://dennissanders.medium.com/attention-must-be-paid-caba7635de15)*:

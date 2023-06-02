@@ -4,29 +4,6 @@ date: 2021-01-15T20:18:11-05:00
 tags:
     - love
     - quotes
-#summary: ""
-#description: ""
-draft: false
-showToc: true
-tocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
-searchHidden: false
-showReadingTime: true
-showBreadCrumbs: true
-showPostNavLinks: true
-showWordCount: true
-showRssButtonInSectionTermList: true
-useHugoToc: true
-#cover:
-#    image: "<image path/url>"
-#    alt: "<alt text>"
-#    caption: "<text>"
-#    relative: false
-#    hidden: false
 ---
 
 > Love is the ultimate and the highest goal to which man can aspire.

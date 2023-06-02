@@ -6,14 +6,6 @@ tags:
   - book
   - five things
   - personal growth
-ShowToc: true
-TocOpen: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
     image: "the-four-agreements.jpg" # image path/url
     alt: "Front cover of the book 'The Four Agreements' laying on a black countertop" # alt text
