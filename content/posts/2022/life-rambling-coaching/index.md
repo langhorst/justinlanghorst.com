@@ -28,7 +28,7 @@ Like letting go of some optimal plan for taking care of my physical body. I don'
 
 So I went to a yoga class today taught by one of my favorite teachers. And, as usual, it was instantly healing. Emotionally and physically healing. I've been having low back pain for the last several weeks and it’s now completely gone.
 
-It's weird how physical pain fades away after an emotional release. Everything is connected. So it goes.
+It's weird how physical pain fades away after an emotional release. Everything is connected.
 
 I feel like myself again. Not necessarily because I started running again and I’m back to the yoga studio, but rather because I'm again letting myself do the things that my authentic self enjoys doing instead of whatever I’ve logically come up with that I "should" be doing. I'm back to throwing as many shoulds out the fucking window once again, yet, with a much clearer perspective on my path moving forward.
 
@@ -36,14 +36,6 @@ And I have a lot of things planned along that path already. And it's all fun. Mo
 
 My favorite way to create is through conversation. To foster connection. To move through thoughts and emotions to get to the root of things so we can spring the fuck out of there into creating a life where we thrive together. Because we all have fun stuff to do that entertains us, don't we?
 
-I'm in a good place. And I want to help. I'm looking for two people who want life coaching services to join me, preferably locally on walking coaching sessions. It’s easy to get stuck and we can all help people move forward. Plus, I need to finish coaching hours for my ACC certification with the ICF.
+I'm in a good place. And I want to help. I'm looking for a few individuals looking to improve some aspect of their life to join me, preferably locally on walking coaching sessions. It's easy to get stuck and we can all help people move forward. Plus, I need to finish coaching hours for my ACC certification with the ICF. It's time for this phase to begin. 
 
 The photo is from when I took my daughter to the lake on Sunday. I love it there so much.
-
-I feel like myself again. Not necessarily because I started running again and I'm back to the yoga studio, but rather because I'm again letting myself do the things that my authentic self enjoys doing instead of whatever I've logically come up with that I "should" be doing. I'm back to throwing as many shoulds out the fucking window once again, yet, with a much clearer perspective on my path moving forward.
-
-And I have a lot of things planned along that path already. And it's all fun. Most of it makes me giddy. These things entertain my child-like self. And this is what it's all about.
-
-My favorite way to create is through conversation. To foster connection. To move through thoughts and emotions to get to the root of things so we can spring the fuck out of there into creating a life where we thrive together. Because we all have fun stuff to do that entertains us, don't we?
-
-I'm in a good place. And I want to help. I'm looking for two people who want life coaching services to join me, preferably locally on walking coaching sessions. It's easy to get stuck and we can all help people move forward. And you'd be helping me, too, as I have a few hours of coaching to put towards my ACC certification with the ICF. It's time for this phase to begin.
