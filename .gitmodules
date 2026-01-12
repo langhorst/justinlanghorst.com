@@ -1,13 +1,3 @@
-[submodule "themes/hermit"]
-	path = themes/hermit
-	url = https://github.com/langhorst/hermit.git
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/langhorst/hugo-PaperMod.git
-[submodule "themes/congo"]
-	path = themes/congo
-	url = https://github.com/jpanther/congo.git
-	branch = stable
-[submodule "themes/paper"]
-	path = themes/paper
-	url = https://github.com/branchwebpresence/hugo-paper
