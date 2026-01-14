@@ -1,6 +1,6 @@
 baseURL: "https://www.justinlanghorst.com/"
 title: Justin Langhorst
-paginate: 10
+pagination.pagerSize: 10
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -13,163 +13,163 @@ pygmentsUseClasses: true
 # googleAnalytics: UA-123-45
 
 minify:
-    disableXML: true
-    # minifyOutput: true
+  disableXML: true
+  # minifyOutput: true
 
 languages:
-    en:
-        languageName: "English"
-        weight: 1
-        taxonomies:
-          tag: tags
-          series: series
-        menu:
-            main:
-                - name: Search
-                  url: search/
-                  weight: 10
-                - name: Archive
-                  url: archives
-                  weight: 20
-                - name: Tags
-                  url: tags/
-                  weight: 30
-                - name: About
-                  url: about/
-                  weight: 40
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Archive
+          url: archives
+          weight: 20
+        - name: Tags
+          url: tags/
+          weight: 30
+        - name: About
+          url: about/
+          weight: 40
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "A series of semi-whenever somethings."
-    author: Justin Langhorst
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "A series of semi-whenever somethings."
+  author: Justin Langhorst
 
-    defaultTheme: auto
-    disableThemeToggle: false
-    showShareButtons: false
-    showReadingTime: true
-    # disableSpecial1stPost: true
-    displayFullLangName: false
-    searchHidden: false
-    showPostNavLinks: true
-    showBreadCrumbs: false
-    showCodeCopyButtons: true
-    showRssButtonInSectionTermList: true
-    showToc: true
-    comments: false
-    images: ["papermod-cover.png"]
+  defaultTheme: auto
+  disableThemeToggle: false
+  showShareButtons: false
+  showReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: false
+  searchHidden: false
+  showPostNavLinks: true
+  showBreadCrumbs: false
+  showCodeCopyButtons: true
+  showRssButtonInSectionTermList: true
+  showToc: true
+  comments: false
+  images: ["papermod-cover.png"]
 
-    profileMode:
-        enabled: true
-        title: Hi, I'm Justin.
-        imageUrl: "posts/2022/castle-peak-100k-2021/justin-langhorst-horseshoe-bend-20210801.jpg"
-        imageTitle: Justin Langhorst
-        imageWidth: 300
-        imageHeight: 300
-        buttons:
-            - name: Coach
-              url: tags/coaching
-            - name: Dev
-              url: tags/development
-            - name: Blog
-              url: posts
+  profileMode:
+    enabled: true
+    title: Hi, I'm Justin.
+    imageUrl: "posts/2022/castle-peak-100k-2021/justin-langhorst-horseshoe-bend-20210801.jpg"
+    imageTitle: Justin Langhorst
+    imageWidth: 300
+    imageHeight: 300
+    buttons:
+      - name: Coach
+        url: tags/coaching
+      - name: Dev
+        url: tags/development
+      - name: Blog
+        url: posts
 
-    homeInfoParams:
-        Title: "PaperMod"
-        Content: >
-            Welcome to demo of hugo's theme PaperMod.
+  homeInfoParams:
+    Title: "PaperMod"
+    Content: >
+      Welcome to demo of hugo's theme PaperMod.
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
 
-            - Do give a 🌟 on Github !
+      - Do give a 🌟 on Github !
 
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
-    socialIcons:
-        - name: Linkedin
-          url: "https://www.linkedin.com/in/justinlanghorst/"
-        - name: Instagram
-          url: "https://www.instagram.com/justin.langhorst"
-        - name: Facebook
-          url: "https://www.facebook.com/justinlanghorst"          
-        - name: GitHub
-          url: "https://www.github.com/langhorst"
-        - name: RSS
-          url: "index.xml"
+  socialIcons:
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/justinlanghorst/"
+    - name: Instagram
+      url: "https://www.instagram.com/justin.langhorst"
+    - name: Facebook
+      url: "https://www.facebook.com/justinlanghorst"
+    - name: GitHub
+      url: "https://www.github.com/langhorst"
+    - name: RSS
+      url: "index.xml"
 
-    # editPost:
-    #     URL: "https://github.com/langhorst/justinlanghorst.com/content/"
-    #     Text: "Suggest Changes" # edit text
-    #     appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #     URL: "https://github.com/langhorst/justinlanghorst.com/content/"
+  #     Text: "Suggest Changes" # edit text
+  #     appendFilePath: true # to append file path to Edit link
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+  # label:
+  #     text: "Home"
+  #     icon: icon.png
+  #     iconHeight: 35
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
 
-    assets:
-        disableHLJS: true
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
-    #     apple_touch_icon: "<link / abs url>"
-    #     safari_pinned_tab: "<link / abs url>"
+  assets:
+    disableHLJS: true
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
 
-    cover:
-        hidden: false # hide everywhere but not in structured data
-        hiddenInList: false # hide on list pages and home
-        hiddenInSingle: false # hide on single page
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
-    # fuseOpts:
-    #     isCaseSensitive: false
-    #     shouldSort: true
-    #     location: 0
-    #     distance: 1000
-    #     threshold: 0.4
-    #     minMatchCharLength: 0
-    #     keys: ["title", "permalink", "summary", "content"]
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        noClasses: false
-        # anchorLineNos: true
-        # codeFences: true
-        # guessSyntax: true
-        # lineNos: true
-        # style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
 
 privacy:
-    vimeo:
-        disabled: false
-        simple: true
+  vimeo:
+    disabled: false
+    simple: true
 
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
 
-    instagram:
-        disabled: true
-        simple: true
+  instagram:
+    disabled: true
+    simple: true
 
-    youtube:
-        disabled: false
-        privacyEnhanced: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
 
 services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
